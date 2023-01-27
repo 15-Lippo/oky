@@ -16,3 +16,7 @@ Thumbs.db
 
 # locks
 package-lock.json
+
+
+#vercel
+.vercel
